@@ -1,6 +1,6 @@
 
 public class ClassA {
 
-	private int = 3;
+	private int zahl = 3;
 
 }
